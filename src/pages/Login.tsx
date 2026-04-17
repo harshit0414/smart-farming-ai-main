@@ -121,7 +121,7 @@ const Login = () => {
             </Button>
 
             <p className="text-center text-sm text-muted-foreground">
-              Demo credentials prefilled — just hit Sign In.
+              
             </p>
           </form>
         </div>
